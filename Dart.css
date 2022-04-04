@@ -6,7 +6,7 @@ a{text-decoration: none; color: inherit;}
 /*part 1.1*/
 .part_1{background: url('Images/BG 1.png') center center no-repeat; background-size: 100% 100%;}
 .align{max-width: 90.000em; margin: 0 auto;}
-header{display: flex; justify-content: space-between; align-items: center;  padding-top: 2.578em;}
+header{display: flex; justify-content: space-between; align-items: center;  padding-top: 2.578em; margin:0px 14px;}
 .service{text-transform: uppercase; line-height: 1.2em;}
 .service>div{display: inline-block;}
 .servul{ color: #fff;padding: 0px 10px;}
