@@ -6,6 +6,8 @@
 	button:hover{transform: translate(0px,-5px); transition: 0.4s}
 	.servul>ul>li:hover{color: black; transition:0.5s;}
 	.ulrepeat>ul>li:hover{color: grey; transition: 0.5s;}
+	.butdiv>button:hover{box-shadow: 0px 5px 80px #17e2c3; transform: translate(0px,0px);}
+	.easybut>button:hover{box-shadow: 0px 5px 80px #17e2c3; transform: translate(0px,0px);}
 }
 
 
